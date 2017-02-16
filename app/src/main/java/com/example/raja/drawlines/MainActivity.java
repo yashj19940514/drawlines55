@@ -20,4 +20,10 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
+    public static void rr(){
+
+        int k;
+
+    }
+
 }
